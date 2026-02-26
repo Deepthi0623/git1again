@@ -1,1 +1,1 @@
-print(new file is created)
+print("it is easy to learn BI")
